@@ -1,0 +1,53 @@
+
+body {
+    background: url("../images/cork-wallet.png");
+    
+}
+
+.navbar-brand {
+    background: #4aaaa5;
+    padding: 18px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    
+    
+}
+
+.navbar {
+    border-bottom: 2px solid #cccccc;
+    
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+.mycontainer {
+    background: #ffffff;
+    margin-top: 120px;
+    border-color: #dddddd;
+    padding: 35px;
+    
+}
+
+p {
+    color: #777777;
+    font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
+
+.myimage {
+    margin-right: 20px;
+}
+
+.custfooter {
+    color:#ffffff;
+    height: 50px;
+    
+}
+
+.site-footer {
+    background-color: #666666;
+    border-top: 5px solid #4aaaa5;
+            
+}

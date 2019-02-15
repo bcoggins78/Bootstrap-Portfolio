@@ -25,8 +25,10 @@ h2 {
 .mycontainer {
     background: #ffffff;
     margin-top: 120px;
+    margin-bottom: 120px;
     border-color: #dddddd;
     padding: 35px;
+    color: #777777
     
 }
 
@@ -38,6 +40,35 @@ p {
 
 .myimage {
     margin-right: 20px;
+}
+
+.custtitle {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    height: 30px;
+    position: relative;
+    top: 20px
+}
+
+.card {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.row-full {
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    height: 100px;
+    margin-top: 100px;
+    left: 50%;
+}
+
+.custbutton {
+    background-color: #4aaaa5;
+    border-radius: 0px;
+    width: 100px;
 }
 
 .custfooter {
